@@ -1,4 +1,5 @@
 # Restaurant Website
 
-Author : @harshilgamidi
+Author : @harshilgamidi,
+
 I have built the frontend using React framework.
